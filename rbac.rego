@@ -1,4 +1,4 @@
-# Role-based Access Control (RBAC)
+# test Role-based Access Control (RBAC)
 # --------------------------------
 #
 # This example defines an RBAC model for a Pet Store API. The Pet Store API allows
